@@ -12,9 +12,11 @@
    .nav-lists{
     display: none;
    }
-   .nav-icon{
+   
+
+   .hamburger{
     display: block;
-   } 
+   }
 
    .about-content, 
    .contact-content, 
@@ -51,9 +53,10 @@
    .nav-lists{
     display: none;
    }
-   .nav-icon{
-    display: block;
-   } 
+   
+    .hamburger{
+        display: block;
+    }
 
    .about-content{
      grid-template-columns: 1fr;
